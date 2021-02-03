@@ -12,9 +12,9 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Allen Games
+name: ALLEN GAMES
 #subtitle:
-subtitle: George Allen. Solo indiedev. Creator of Red Horizon. Pingers on the way!
+subtitle: GEORGE ALLEN. SOLO INDIEDEV. CREATOR OF RED HORIZON. PINGERS ON THE WAY!
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title:

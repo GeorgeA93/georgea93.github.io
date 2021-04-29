@@ -67,7 +67,7 @@ links:
       href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
       icon: fab fa-linkedin
   - linkedin:
-      name: Steam
+      name: STEAM
       show: true
       href: https://store.steampowered.com/app/1106790/Red_Horizon/
       icon: fab fa-steam
@@ -77,7 +77,7 @@ links:
       href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
       icon: fab fa-google-plus
   - twitter:
-      name: Twitter
+      name: TWITTER
       show: true
       href: https://twitter.com/allengames_
       icon: fab fa-twitter
@@ -102,7 +102,7 @@ links:
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
-      name: Instagram
+      name: INSTAGRAM
       show: true
       href: https://instagram.com/allengames_
       icon: fab fa-instagram
